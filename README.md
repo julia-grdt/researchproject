@@ -1,5 +1,8 @@
 # Honors Programme Research Project
-Research on the security of K8 configurations
+Analysing Helm charts: the security of K8 configurations
 
 Author: Julia Teerhuis
 Supervisor: Katja Tuma
+
+
+Finished on May 31 2022
